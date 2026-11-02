@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 129,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-tsunenobu-0001",
@@ -1850,7 +1853,7 @@
   "blocks": 129,
   "chars": 2985,
   "poems": 129,
-  "yaku": 0,
+  "yaku": 129,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T14:14:42+09:00"
